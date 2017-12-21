@@ -104,6 +104,7 @@ Mercoin 1.2 (Nist5)
 Mercoin 1.3 (Scrypt)
 Mercoin 1.4 (Scrypt) -el unico cambio fue en parametros de recompensa-
 
+Lea más https://wiki.mercoin.org//versiones
 
 
 # Monederos / Wallets

@@ -20,10 +20,10 @@ https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-Linux/install_de
 **Wallet / Monedero**
 https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-Linux/mercoin-qt
 
-## Wallet Raspberry:
+# Wallet Raspberry:
 
 
-## MONEDERO ONLINE / WEB WALLET
+# MONEDERO ONLINE / WEB WALLET
 https://dashboard.mercoin.org
 
 **En principio -qué ventajas y desventajas tiene este monedero web?**

@@ -106,33 +106,10 @@ Mercoin 1.4 (Scrypt) -el unico cambio fue en parametros de recompensa-
 
 
 
+# Monederos / Wallets
 
 
 
-**NUEVA WEB / NEW WEBSITE** 
-
-MERCOIN.org ahora posee un stio completamente minimalista y ordenado. En este nuevo formato se intento recopilar la información y categorizarla con accesos rapidos para mejor interaccion con los usuarios. Desde la portada podremos acceder tanto a nuestro monedero web como asi tambien a la seccion de compras oficial de MRN (requiere registro). Los enlaces rapidos están bien delimitados con sus respectivas categorias, como por ejemplo la seccion DESCARGAS, en la cual se encontrara toda la información necesaria para la mineria, uso de wallets locales, whitepaer y roadmap.
-
-
-
-**MONEDERO ONLINE / WEB WALLET**
-
-
-
-En esta ocasión les informamos las mejoras y nuevas funcionalidades que ha adquirido la web wallet. También comentaremos algunas de las que vendrán.
-En principio -qué ventajas y desventajas tiene este monedero web?
-Bien, el monedero web puede abrirse desde cualquier dispositivo, dado que es multiplataforma, tanto pc de escritorio, laptops, tablets y smartphones. El mismo requiere un registro mediante correo electrónico y contiene un proceso de alta seguridad para su ingreso como así también para la confirmación de extracciones evitando así, el uso indebido de terceros.
-
-
-
-Lo bueno de este monedero es que puede abrirse de cualquier parte del mundo a cualquier hora, pero no genera mineria PoS o "Stake". Es decir no genera intereses de ningun tipo por la cantidad de MRN que se tenga en él como sí lo hace el monedero local. De esta manera satisfacemos a quienes quieren llevar parte de su saldo para interactuar como medio de pago y tambien a quienes les interesa generar intereses con MRN mediante la wallet local (hold).
-En el día de ayer se ha activado la función COMPRAR, que está ubicada en la parte superior donde se ubica el menú del monedero (Proximamente estaran habilitadas las compras con Bitcoin y Ethereum).
-
-
-http://mercointalk.com/foro/viewtopic.php?f=3&t=275
-
-Para registrarse y realizar su compra por favor visite / to buy please, visit:
-http://dashboard.mercoin.org
 
 
 
@@ -179,29 +156,15 @@ Estos son algunos de los Wallpapers que contiene:
 http://mercointalk.com/foro/viewtopic.php?f=3&t=33
 
 
-MERCOINSHOP.com / COMPRA Y VENDE DE TODO CON MRN!
+# MERCOINSHOP
 
 VIDEO PRESENTACION: https://www.youtube.com/watch?v=2M_h...ature=youtu.be
 
 
 
-MERCOINSHOP.com es una plataforma oficial de MERCOIN.org que permite a los usuarios de la comunidad MRN intercambair bienes y servicios por medio de la moneda que nos representa. En su pagina principal podemos registrarnos, leer la AYUDA (recomendable para comenzar a operar) como asi tambien ver las principales publicaciones de los usuarios.
 
-Estas son algunas imagenes preliminares de lo que encontrarán al ingresar a nuestra plataforma MERCOINSHOP:
+# JUEGOS /FAUCETS /GAMES
 
-
-
-
-
-
-A continuacion dejamos el enlace a la ayuda para quien quiera leer y en forma posterior registrarse:
-https://www.mercoinshop.com/static/MERCOINSHOPAyuda.pdf
-
-
-JUEGOS /FAUCETS /GAMES
-
-La comunidad MERCOIN (MRN) tambien cuenta con juegos para ocio y adquirir algunos MRN si es que la suerte está de tu lado. Contamos con el derivado del famoso satoshidice, convertido a MERCOINDICE y tambien con un juego de ruleta que multiplica nuestras apuestas segun el indicador.
-Para quien desea probar estos juegos, pueden acceder a través de los siguientes enlaces:
 
 
 
@@ -220,55 +183,14 @@ Mas informacion en: http://mercointalk.com/foro/viewtopic.php?f=3&t=274
 
 
 
-
-
-
-web del proyecto:
-
-http://www.MERCOIN.org
-
-Código fuente : 
-
-
-
-Main Downloads:
-
-Codigo fuente / Source
+# Codigo fuente / Source
 
 https://github.com/MERCOINMRN/Mercoin
 
 
 
 
-
-Daemon
-https://github.com/MERCOINMRN/Nodo-m...aster/mercoind
-
-
-
-WALLETS
-
-
-WINDOWS
-instalador / installer
-https://github.com/MERCOINMRN/Wallet..._Installer.msi
-
-Wallet / Monedero
-https://github.com/MERCOINMRN/Wallet...oin-qt-win.zip
-
-
-
-LINUX (Ubuntu 16)
-Dependencias
-https://github.com/MERCOINMRN/Wallet...ependencies.sh
-
-Wallet / Monedero
-https://github.com/MERCOINMRN/Wallet...nux/mercoin-qt
-
-Monedero Mac / Mac Wallet
-(compilando / compiling)
-
-Mineria para Windows / Windows Miner
+# Mineria para Windows / Windows Miner
 
 32 bits>
 https://mega.nz/#!oLpVTD7J!wBh5mosmZ...tmxeZEdZ6kmenI
@@ -278,23 +200,7 @@ https://mega.nz/#!tPYGWJqD!hfXqMZQiI...A26LnG2fO_R3W0
 
 
 
-Guias y tutoriales / Guides & tutorials
 
-Instalacion de monedero / Wallet install
-https://www.youtube.com/watch?v=O_qaObSESWQ&t=37s
-
-Backup de Mercoins / Wallet backup
-https://www.youtube.com/watch?v=LDUUAuFici8
-
-
-Mineria Windows / Windows minning
-https://www.youtube.com/watch?v=uttZWJXRulI&t=40s
-
-Mineria Linux / Linux Miner
-http://mercoin.org/index/Guia_Windows_CPUMiner.pdf
-
-Unirse a una pool / Pool config
-https://www.youtube.com/watch?v=h3_9D5F4TmY
 
 Pools
 

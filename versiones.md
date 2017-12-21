@@ -1,4 +1,4 @@
 <!-- TITLE: Versiones -->
-<!-- SUBTITLE: A quick summary of Versiones -->
+<!-- SUBTITLE: Versiones 1 a 1.5-->
 
-# Header
+# Versiones realizadas de MERCOIN (MRN)

@@ -2,17 +2,17 @@
 <!-- SUBTITLE: Versiones 1 a 1.5-->
 
 # Versiones realizadas de MERCOIN (MRN)
-Se han establecido tres prototipos de MERCOIN:
+## Desde el comienzo de MERCOIN han establecido tres prototipos distintos:
 
-1- Se ha desarrollado un fork de Bytecoin basado en Cryptonight de Cryptonote
-2- Se desarrollo también MERCOIN basado en NIST5
-3- El ultimo desarrollo fue basado con algoritmo Scrypt
+1- Se ha desarrollado un fork de Bytecoin basado en **Cryptonight** de Cryptonote
+2- Se desarrollo también MERCOIN basado en **NIST5**
+3- El ultimo desarrollo fue basado con algoritmo** Scrypt**
 
 Se han dejado correr los tres prototipos y analizado las principales ventajas y desventajas de cada uno obteniendo como conclusión que:
 
 Cryptonight es un muy buen algoritmo basado en el anonimato, pero posee muchas incompatibilidades en algunos aspectos, debido a esto vimos la opcion de NIST5, el cual permite realizar la mineria con un gran rendimiento pero, posee poca divulgacion (solo muy pocas monedas lo han utilizado) y por lo tanto hay pocos desarrolladores realizando soporte, es decir lo consideramos demasiado experimental. Por lo mencionado anteriormente, nos hemos decidido por el algoritmo Scrypt, un viejo conocido con muchisimo soporte e información acerca de él.
 
-Con este ultimo algoritmo elegido se ha establecido dos actualizaciones sobre MERCOIN:
+# Con este ultimo algoritmo elegido se ha establecido dos actualizaciones sobre MERCOIN:
 
 **la version 1.4 y la futura 1.5**
 

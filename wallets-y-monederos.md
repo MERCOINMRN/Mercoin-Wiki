@@ -4,7 +4,7 @@
 **Monederos / Wallets instalables**
 A continuacion se detallan las distintas disponilidades de monederos instalables (en modo local) de MERCOIN
 
-# Wallet Windows:
+# Wallet Windows
 **instalador / installer**
 https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-windows/Mercoin_Installer.msi
 
@@ -12,7 +12,7 @@ https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-windows/Mercoin_
 https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-windows/mercoin-qt-win.zip
 
 
-# Wallet Ubuntu:
+# Wallet Ubuntu
 **LINUX (Ubuntu 16)
 Dependencias**
 https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-Linux/install_dependencies.sh
@@ -20,7 +20,7 @@ https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-Linux/install_de
 **Wallet / Monedero**
 https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-Linux/mercoin-qt
 
-# Wallet Raspberry:
+# Wallet Raspberry
 
 
 # MONEDERO ONLINE / WEB WALLET

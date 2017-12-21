@@ -11,7 +11,10 @@ Mercoin (MRN) $MRN altcoin Mercosur
 Proyecto MERCOIN (2018)
 
 
-WEBSITE:  https://www.mercoin.org/
+# WEBSITE y Canales sociales
+
+https://www.mercoin.org/
+
 Canal de Telegram:t.me/mercointalk
 
 #MERCOIN * #MRN * #$MRN * #MERCHANGE * #MRNSHOP
@@ -30,28 +33,28 @@ MERCOIN es un proyecto lanzado en finales de Junio de 2017.
 Basado en la tecnologia del algoritmo Scrypt
 
 
-Filosofia
+# Filosofia
 
 MERCOIN ( MRN ),
 Denominada así en honor al MERCOSUR, es una nueva altcoin que a diferencia de las demás criptomonedas, que salen al mundo y ya, fue pensada para que su uso sea destinado pura y exclusivamente en la región latinoamericana. Esto no quiere decir que se impidan transacciones al resto del globo, sino más bien que la región sea la primera en adoptarla como criptomoneda oficial. De eso se trata, de que haya nacido para que los ciudadanos de la comunidad tengan sentido de pertenencia en ella.
 
 Dado que en Latinoamérica suelen sucederse medidas económicas de restricción y prohibición de divisas extranjeras, el equipo de MERCOIN consideró que una nueva criptodivisa, con una dificultad inferior a la del Bitcoin, podría imponerse de manera eficiente. Demás está decir, que los ciudadanos latinoamericanos, en su mayoría, no poseen recursos ni equipos de gran potencia como para minar BTC u otra moneda ya conocida de similares características, pero tampoco siente la razón de establecerse con una altcoin. Por este motivo y con esta nueva criptomoneda convocamos a la comunidad latinoamericana que quede atenta al lanzamiento del MRN porque si todos juntos creemos en esta altcoin, todos juntos le daremos el valor que le corresponde. Ni más ni menos. Depende de nosotros y por nosotros MERCOIN llegará a ser la moneda de gran valor en la región.
-Se han establecido tres prototipos de MERCOIN:
 
-1- Se ha desarrollado un fork de Bytecoin basado en Cryptonight de Cryptonote
-2- Se desarrollo también MERCOIN basado en NIST5
-3- El ultimo desarrollo fue basado con algoritmo Scrypt
+# Proyecciones y objetivos
 
-Se han dejado correr los tres prototipos y analizado las principales ventajas y desventajas de cada uno obteniendo como conclusión que:
-
-Cryptonight es un muy buen algoritmo basado en el anonimato, pero posee muchas incompatibilidades en algunos aspectos, debido a esto vimos la opcion de NIST5, el cual permite realizar la mineria con un gran rendimiento pero, posee poca divulgacion (solo muy pocas monedas lo han utilizado) y por lo tanto hay pocos desarrolladores realizando soporte, es decir lo consideramos demasiado experimental. Por lo mencionado anteriormente, nos hemos decidido por el algoritmo Scrypt, un viejo conocido con muchisimo soporte e información acerca de él.
-
-
-
-Las principales características técnicas del MERCOIN :
+-El equipo de desarrollo de MERCOIN.org junto con aquellos que se vayan integrando, tendrán como objetivo:
+-Establecer a MERCOIN como moneda regional, encontrándose en las principales plataformas de turismo virtual, sitios de compra venta, comercios gastronómicos y otra índole
+-Finalizar con el desarrollo del MERCOIN físico (MRN-F) el cual trabaja a través de un software permitiendo imprimir tanto en papel como en formato 3D (Moneda), el saldo que el usuario desee, contemplando la seguridad y desarrollando una encriptación que impida clones y/o duplicados.
+-Desarrollar plataformas de pago innovadoras y prácticas auto gestionadas, entre ellas la MRN card y anillo MRN. Ambos trabajarán con tecnología NFC (por cercanía) y será autogestionada por el usuario. Es decir, cada individuo podrá realizar la carga del saldo que desee en su tarjeta sin intermediarios.
+-Desarrollar equipos de minería con hardware de bajo costo y de bajo consumo con gran eficiencia y rendimiento, basados en las tarjetas Udoo x86 starter y Ultra.
+-Financiar desarrollos tecnológicos que contribuyan al bien de la comunidad y el medio ambiente.
 
 
-Características principales
+
+# Las principales características técnicas del MERCOIN :
+
+
+
 
 La misma, está basada en el algoritmo POW/POS Scrypt. 
 
@@ -68,11 +71,9 @@ Se la podrá encontrar en las principales plataformas de cambio (exchange) y sit
 
 
 
-**MERCOIN ( MRN ) - Monetización**
 
-Algoritmo PoW/PoS: Scrypt
 
-**Datos Técnicos**
+# Datos Técnicos
 
 Nombre: MERCOIN
 Ticker / Abreviatura: MRN
@@ -91,41 +92,21 @@ Tiempo minimo para stake: 8 hs
 
 (a) - Consulte políticas de emisión en el whitepaper
 
-Whitepaper: 
+# Whitepaper: 
 
 https://www.mercoin.org/index/whitepaper-espanol.pdf
 
 
-**Versiones**
+# Versiones
 
 Mercoin 1.0 (Cryptonote)
 Mercoin 1.2 (Nist5)
 Mercoin 1.3 (Scrypt)
 Mercoin 1.4 (Scrypt) -el unico cambio fue en parametros de recompensa-
 
-**DESCARGAS:
-**
-NUEVAS ACTUALIZACIONES DISPONIBLES!
-
-por favor verifique la web del sitio
-
-Formato Papel y 3D[2]
-El equipo de MERCOIN, consideró en responder a las personas que también gozan de tener el formato papel de una criptomoneda, no obstante, decidio incorporar el novedoso formato 3D. El mismo consiste en un software de MERCOIN.org (en desarrollo) cuya tarea es la de encriptar el nombre de usuario de wallet junto con el saldo a transferir en un código QR (en el caso de papel) y la dirección completa en la cara posterior (en el caso de la moneda 3D).
-Para evitar saldos duplicados y/o clones, el software genera una dirección wallet "física" (emite una dirección distinta para cada impresión) a la cual transfieres el saldo. De esta forma actúa como cualquier transacción de una criptomoneda, solo que queda impresa en tu dirección física.
-
-**Proyecciones y objetivos:**
-
--El equipo de desarrollo de MERCOIN.org junto con aquellos que se vayan integrando, tendrán como objetivo:
--Establecer a MERCOIN como moneda regional, encontrándose en las principales plataformas de turismo virtual, sitios de compra venta, comercios gastronómicos y otra índole
--Finalizar con el desarrollo del MERCOIN físico (MRN-F) el cual trabaja a través de un software permitiendo imprimir tanto en papel como en formato 3D (Moneda), el saldo que el usuario desee, contemplando la seguridad y desarrollando una encriptación que impida clones y/o duplicados.
--Desarrollar plataformas de pago innovadoras y prácticas auto gestionadas, entre ellas la MRN card y anillo MRN. Ambos trabajarán con tecnología NFC (por cercanía) y será autogestionada por el usuario. Es decir, cada individuo podrá realizar la carga del saldo que desee en su tarjeta sin intermediarios.
--Desarrollar equipos de minería con hardware de bajo costo y de bajo consumo con gran eficiencia y rendimiento, basados en las tarjetas Udoo x86 starter y Ultra.
--Financiar desarrollos tecnológicos que contribuyan al bien de la comunidad y el medio ambiente.
 
 
 
-
-**ACTUALIZACIONES al 30 de Noviembre de 2017 / UPDATES November 30 of 2017**
 
 
 **NUEVA WEB / NEW WEBSITE** 

@@ -25,7 +25,9 @@ A continuación les dejamos la version preliminar del sistema:
 
 **Enlace:** https://goo.gl/t5Vvis
 
+![77 E 025 D 8549 C 29 E 9 E 6 Fac 2181 D 9 A 07 B 4 O](/uploads/77-e-025-d-8549-c-29-e-9-e-6-fac-2181-d-9-a-07-b-4-o.jpg "77 E 025 D 8549 C 29 E 9 E 6 Fac 2181 D 9 A 07 B 4 O")
 
+![8 A 6 Cc 01 B 02 F 752790 B 9 Eeabe 46 C 32514 O](/uploads/8-a-6-cc-01-b-02-f-752790-b-9-eeabe-46-c-32514-o.jpg "8 A 6 Cc 01 B 02 F 752790 B 9 Eeabe 46 C 32514 O")
 
 **Estos son algunos de los Wallpapers que contiene:**
 https://wiki.mercoin.org//mercoin-os/wallpapers

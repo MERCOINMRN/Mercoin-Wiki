@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=O_qaObSESWQ&t
 
 # Backup de Mercoins / Wallet backup
 https://www.youtube.com/watch?v=LDUUAuFici8
+[video](https://www.youtube.com/watch?v=LDUUAuFici8){.youtube}
+
 
 
 # Mineria Windows / Windows minning

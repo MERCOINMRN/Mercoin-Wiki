@@ -11,7 +11,7 @@ Mercoin (MRN) $MRN altcoin Mercosur
 Proyecto MERCOIN (2018)
 
 
-# WEBSITE y Canales sociales
+# Website y Canales sociales
 
 https://www.mercoin.org/
 
@@ -56,7 +56,7 @@ Dado que en Latinoamérica suelen sucederse medidas económicas de restricción 
 
 
 
-MERCOIN está basado en el algoritmo POW/POS Scrypt. 
+**MERCOIN** está basado en el algoritmo POW/POS Scrypt. 
 
 
 Permite su minería a través de ordenadores de bajo recursos por medio de CPU y tambien la minería por GPU 
@@ -123,12 +123,12 @@ Lea más https://wiki.mercoin.org//mercoin-shop
 
 
 ## Juegos / Games
-La comunidad MERCOIN (MRN) tambien cuenta con juegos para ocio y adquirir algunos MRN si es que la suerte está de tu lado. 
+La comunidad **MERCOIN (MRN)** tambien cuenta con juegos para ocio y adquirir algunos **MRN** si es que la suerte está de tu lado. 
 
 Lea más https://wiki.mercoin.org//juegos
 
 ## MercoinOS
-Sistema operativo propio de MERCOIN.org basado en una distro de linux para Raspberry (Pixel)
+Sistema operativo propio de **MERCOIN.org** basado en una distro de linux para **Raspberry** (Pixel)
 
 Lea más https://wiki.mercoin.org//mercoin-os
 

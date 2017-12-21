@@ -92,7 +92,7 @@ Tiempo minimo para stake: 8 hs
 
 (a) - Consulte políticas de emisión en el whitepaper
 
-# Whitepaper: 
+# Whitepaper
 
 https://www.mercoin.org/index/whitepaper-espanol.pdf
 

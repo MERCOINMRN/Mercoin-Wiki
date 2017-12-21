@@ -3,7 +3,7 @@
 
 # MercoinOS
 **RASPBERRY PI WALLET / DISTRO MERCOIN**
-
+## DESARROLLO
 Si eres amante de los dispositivos como arduino y raspberry, el equipo de MERCOIN no los ha dejado afuera. Es por ello que consideramos que son una buena forma y sobre todo segura de guardar en ellos tus MRN (ya sea localmente o via web), sin tener que utilizar tu laptop o pc de escritorio, que al ser utilizadas constantemente son propensas a sufrir da;os o robos de la misma.
 
 Por este motivo reversionamos la distribucion basada en linux denominada Raspbian Pixel, con un entorno homenajeando a nuestra criptomoneda, aqui algunas imagenes:
@@ -30,4 +30,4 @@ A continuación les dejamos la version preliminar del sistema:
 ![8 A 6 Cc 01 B 02 F 752790 B 9 Eeabe 46 C 32514 O](/uploads/8-a-6-cc-01-b-02-f-752790-b-9-eeabe-46-c-32514-o.jpg "8 A 6 Cc 01 B 02 F 752790 B 9 Eeabe 46 C 32514 O")
 
 **Estos son algunos de los Wallpapers que contiene:**
-https://wiki.mercoin.org//mercoin-os/wallpapers
+## WALLPAPERS

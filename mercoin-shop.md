@@ -6,10 +6,12 @@
 
 
 **¿qué es MERCOINSHOP?**
+
 **MERCOINSHOP** es una plataforma de compra / venta de bienes y servicios que utiliza exclusivamente
 un único medio de pago, en este caso **MERCOIN (MRN)**
 
-**COMPRAR**
+### **COMPRAR**
+
 **¿qué puedo comprar y/o vender en MERCOINSHOP?**
 
 En **MERCOINSHOP** se pueden comprar y/o vender bienes y/o servicios de toda índole **SI Y SOLO SI** no
@@ -38,6 +40,8 @@ Una vez pagado el articulo, el mediador (MERCOIN.org) se encarga de proteger su 
 usted reciba su producto y una vez calificado y notificada la correcta recepción se libera el pago al
 vendedor.
 
+![0 Cadee 722643 Ea 325135 C 401 B 3 B 382 F 2 O](/uploads/0-cadee-722643-ea-325135-c-401-b-3-b-382-f-2-o.png "0 Cadee 722643 Ea 325135 C 401 B 3 B 382 F 2 O")
+
 **Recibí mi producto, ¿cómo procedo?**
 
 Una vez recibido el producto usted debe calificar de acuerdo al cumplimiento del VENDEDOR, de ser
@@ -55,7 +59,7 @@ Sí, lo es. Dado que se utiliza (al igual que en otras plataformas) la imagen de
 en caso de que el vendedor no cumpla con sus expectativas, se le reintegrara el saldo en MRN que
 había utilizado.
 
-**Políticas de pago y liberación de saldos en MRN**
+## **Políticas de pago y liberación de saldos en MRN**
 
 La siguiente dirección de monedero / wallet MRN será la OFICIALMENTE ¨ encargada¨ de actuar como
 agente de retención, cualquier otra dirección utilizada y/o suministrada por el/los
@@ -70,7 +74,7 @@ proceda a la calificación del VENDEDOR para que de esta manera, MERCOIN, proced
 del saldo. Si dentro de los 20 (veinte) días, el COMPRADOR no realiza la calificación, se asumirá como
 compra efectuada de manera factible y se procederá con la liberación del saldo en MRN al VENDEDOR.
 
-**VENDER
+### **VENDER
 
 **¿Cómo vendo y qué puedo vender?**
 
@@ -85,6 +89,8 @@ aquellos que no sean ilegales en alguno de los estados hispanos (ejemplo: drogas
 Una vez vendido su producto, recibirá en su email de registro, los datos del comprador con los que
 deberá ponerse en contacto para su entrega. Debe aguardar por la calificación por parte del
 COMPRADOR para que el MEDIADOR (MERCOIN.org) libere su saldo a su wallet.
+
+![E 0886 Db 4535 Edc 7 B 67 D 6 Fcf 5459 Dcf 5 Fo](/uploads/e-0886-db-4535-edc-7-b-67-d-6-fcf-5459-dcf-5-fo.png "E 0886 Db 4535 Edc 7 B 67 D 6 Fcf 5459 Dcf 5 Fo")
 
 **Han pasado varios días y mi pago no llega, ¿qué hago?**
 

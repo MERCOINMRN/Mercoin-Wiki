@@ -103,6 +103,7 @@ Mercoin 1.0 (Cryptonote)
 Mercoin 1.2 (Nist5)
 Mercoin 1.3 (Scrypt)
 Mercoin 1.4 (Scrypt) -el unico cambio fue en parametros de recompensa-
+Mercoin 1.5 (Scrypt) -cambios en parametros y entorno grafico-
 
 Lea más https://wiki.mercoin.org//versiones
 

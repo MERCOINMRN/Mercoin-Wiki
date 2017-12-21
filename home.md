@@ -56,7 +56,7 @@ Dado que en Latinoamérica suelen sucederse medidas económicas de restricción 
 
 
 
-La misma, está basada en el algoritmo POW/POS Scrypt. 
+MERCOIN está basado en el algoritmo POW/POS Scrypt. 
 
 
 Permite su minería a través de ordenadores de bajo recursos por medio de CPU y tambien la minería por GPU 

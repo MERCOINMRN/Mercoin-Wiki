@@ -113,7 +113,9 @@ Lea más https://wiki.mercoin.org//versiones
 
 
 # MERCOINSHOP
+Plataforma web integramente creada para el intercambio de bienes y servicios con MERCOIN
 
+Lea más https://wiki.mercoin.org//mercoin-shop
 
 
 

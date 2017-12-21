@@ -74,7 +74,7 @@ proceda a la calificación del VENDEDOR para que de esta manera, MERCOIN, proced
 del saldo. Si dentro de los 20 (veinte) días, el COMPRADOR no realiza la calificación, se asumirá como
 compra efectuada de manera factible y se procederá con la liberación del saldo en MRN al VENDEDOR.
 
-## **VENDER
+## **VENDER**
 
 **¿Cómo vendo y qué puedo vender?**
 

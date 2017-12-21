@@ -25,7 +25,7 @@ A continuación les dejamos la version preliminar del sistema:
 
 **Enlace:** https://goo.gl/t5Vvis
 
-**Mas información en>** http://mercointalk.com/foro/viewtopic.php?f=3&t=276
 
-Estos son algunos de los Wallpapers que contiene:
-http://mercointalk.com/foro/viewtopic.php?f=3&t=33
+
+**Estos son algunos de los Wallpapers que contiene:**
+https://wiki.mercoin.org//mercoin-os/wallpapers

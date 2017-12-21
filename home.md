@@ -15,7 +15,7 @@ Proyecto MERCOIN (2018)
 
 https://www.mercoin.org/
 
-Canal de Telegram:t.me/mercointalk
+Canal de Telegram: t.me/mercointalk
 
 #MERCOIN * #MRN * #$MRN * #MERCHANGE * #MRNSHOP
 Canales oficiales:
@@ -30,7 +30,7 @@ https://www.instagram.com/mercoinweb/
 
 MERCOIN es un proyecto lanzado en finales de Junio de 2017. 
 
-Basado en la tecnologia del algoritmo Scrypt
+*Basado en la tecnologia del algoritmo Scrypt*
 
 
 # Filosofia
@@ -118,7 +118,7 @@ Mercoin 1.4 (Scrypt) -el unico cambio fue en parametros de recompensa-
 
 
 
-# JUEGOS /FAUCETS /GAMES
+# Juegos / Games
 
 
 
@@ -142,7 +142,6 @@ http://explorer.mercoin.org:3001/
 
 
 
-
 # Roadmap
 
 
@@ -150,27 +149,13 @@ https://bitcointalk.org/index.php?topic=2128581.0
 
 
 
-Bounties:
+# Bounties
 https://bitcointalk.org/index.php?to...29#msg21173929
 
 
-English: https://bitcointalk.org/index.php?to...05#msg21010205
+# English
+https://bitcointalk.org/index.php?to...05#msg21010205
 
-Portugués: https://bitcointalk.org/index.php?topic=2108990.0
+# Portugués
+https://bitcointalk.org/index.php?topic=2108990.0
 
-
-Donaciones para el desarrollo general
-
-
-**BTC:** 
-Código:
-17ZmhB5wbcpjhoVhVHUVyw5XMEQYzsJYEs
-
-**ETH:** 
-Código:
-0xae16FE1AD825458E1c91d5E142746203bBcd09eC
-
-
-Telegram: t.me/mercoinTALK
-
-Slack: mercoin.slack.com

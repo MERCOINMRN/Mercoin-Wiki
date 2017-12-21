@@ -1,7 +1,7 @@
 <!-- TITLE: Wallpapers -->
 <!-- SUBTITLE: Wallpaper oficiales de MERCOIN OS -->
 
-# Header
+# Wallpapers oficiales MercoinOS
 ![04 Fe 48819981902 D 2139 Eed 597 E 4 Dd 30 O](/uploads/04-fe-48819981902-d-2139-eed-597-e-4-dd-30-o.jpg "04 Fe 48819981902 D 2139 Eed 597 E 4 Dd 30 O")
 
 ![3 B 3 Ced 986 Dd 6163255 Ee 9 Ce 9 D 7 C 9 Fbbco](/uploads/3-b-3-ced-986-dd-6163255-ee-9-ce-9-d-7-c-9-fbbco.png "3 B 3 Ced 986 Dd 6163255 Ee 9 Ce 9 D 7 C 9 Fbbco")

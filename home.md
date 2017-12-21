@@ -107,7 +107,7 @@ Mercoin 1.4 (Scrypt) -el unico cambio fue en parametros de recompensa-
 Lea más https://wiki.mercoin.org//versiones
 
 
-# Monederos / Wallets
+
 
 
 # DESARROLLOS
@@ -124,25 +124,25 @@ Lea más https://wiki.mercoin.org//mercoin-shop
 ## Juegos / Games
 
 
-## MERCOINoS
+## MercoinOS
 Sistema operativo propio de MERCOIN.org basado en una distro de linux para Raspberry (Pixel)
 
-https://wiki.mercoin.org//mercoin-os
+Lea más https://wiki.mercoin.org//mercoin-os
 
 
 
 
+# Recursos
 
-
-# Codigo fuente / Source
+## Codigo fuente / Source
 
 https://github.com/MERCOINMRN/Mercoin
 
 
+## Monederos / Wallets
 
 
-
-# Explorador de bloques / Block explorer
+## Explorador de bloques / Block explorer
 http://explorer.mercoin.org:3001/
 
 
@@ -151,14 +151,15 @@ http://explorer.mercoin.org:3001/
 
 
 
-# Roadmap
+## Roadmap
 
 
 https://bitcointalk.org/index.php?topic=2128581.0
 
 
-
-# Bounties
+# Difusion y prensa
+## Bounties
+Campañas de recompensas
 https://bitcointalk.org/index.php?to...29#msg21173929
 
 

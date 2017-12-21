@@ -123,7 +123,9 @@ Lea más https://wiki.mercoin.org//mercoin-shop
 
 
 ## Juegos / Games
+La comunidad MERCOIN (MRN) tambien cuenta con juegos para ocio y adquirir algunos MRN si es que la suerte está de tu lado. 
 
+Lea más https://wiki.mercoin.org//juegos
 
 ## MercoinOS
 Sistema operativo propio de MERCOIN.org basado en una distro de linux para Raspberry (Pixel)

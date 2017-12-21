@@ -29,5 +29,3 @@ A continuación les dejamos la version preliminar del sistema:
 
 Estos son algunos de los Wallpapers que contiene:
 http://mercointalk.com/foro/viewtopic.php?f=3&t=33
-
-![3 B 3 Ced 986 Dd 6163255 Ee 9 Ce 9 D 7 C 9 Fbbco](/uploads/3-b-3-ced-986-dd-6163255-ee-9-ce-9-d-7-c-9-fbbco.png "3 B 3 Ced 986 Dd 6163255 Ee 9 Ce 9 D 7 C 9 Fbbco")

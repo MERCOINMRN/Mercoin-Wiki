@@ -5,26 +5,26 @@
 ![8911 Bbf 7 Ef 4 Ca 42152 A 30 E 9619 F 2 Cdd 9 O](/uploads/8911-bbf-7-ef-4-ca-42152-a-30-e-9619-f-2-cdd-9-o.png "8911 Bbf 7 Ef 4 Ca 42152 A 30 E 9619 F 2 Cdd 9 O")
 
 
-**¿qué es MERCOINSHOP?**
+## **¿qué es MERCOINSHOP?**
 
 **MERCOINSHOP** es una plataforma de compra / venta de bienes y servicios que utiliza exclusivamente
 un único medio de pago, en este caso **MERCOIN (MRN)**
 
 ## **COMPRAR**
 
-**¿qué puedo comprar y/o vender en MERCOINSHOP?**
+## **¿qué puedo comprar y/o vender en MERCOINSHOP?**
 
 En **MERCOINSHOP** se pueden comprar y/o vender bienes y/o servicios de toda índole **SI Y SOLO SI** no
 infringen la ley de ninguna de las naciones de habla hispana, por lo tanto si hay una publicación que
 infringe la ley de al menos UN (1) país será automáticamente dada de baja.
 
-**¿qué necesito para comprar en MERCOINSHOP?**
+## **¿qué necesito para comprar en MERCOINSHOP?**
 
 Para comprar en **MERCOINSHOP** se requiere de realizar el proceso de registro de usuario y contar
 con un monedero/wallet MERCOIN con saldo suficiente para satisfacer la compra (monederos
 descargables o bien Webwallet del sitio oficial MERCOIN.org).
 
-**¿cómo compro en MERCOINSHOP?**
+## **¿cómo compro en MERCOINSHOP?**
 
 Para realizar la compra en la plataforma, solo basta con seleccionar el producto deseado, dar click en
 el botón ¨comprar, recibirá una dirección de monedero/wallet (del mediador MERCOIN.org) via mail
@@ -42,7 +42,7 @@ vendedor.
 
 ![0 Cadee 722643 Ea 325135 C 401 B 3 B 382 F 2 O](/uploads/0-cadee-722643-ea-325135-c-401-b-3-b-382-f-2-o.png "0 Cadee 722643 Ea 325135 C 401 B 3 B 382 F 2 O")
 
-**Recibí mi producto, ¿cómo procedo?**
+## **Recibí mi producto, ¿cómo procedo?**
 
 Una vez recibido el producto usted debe calificar de acuerdo al cumplimiento del VENDEDOR, de ser
 todo correcto debe liberar el pago a su VENDEDOR informando la correcta recepción con su nombre
@@ -52,7 +52,7 @@ liberarpago@mercoinshop.com
 SIN EXCEPCIÓN ALGUNA, por lo tanto tenga bien en cuenta esto a la hora de realizar el pago al igual
 que cuando utiliza su tarjeta de crédito)
 
-**¿es seguro operar en MERCOINSHOP?**
+## **¿es seguro operar en MERCOINSHOP?**
 
 Sí, lo es. Dado que se utiliza (al igual que en otras plataformas) la imagen del ¨MEDIADOR¨
 (MERCOIN.org) para proteger su saldo pagado por el producto, actuando como agente de retención y
@@ -76,7 +76,7 @@ compra efectuada de manera factible y se procederá con la liberación del saldo
 
 ## **VENDER**
 
-**¿Cómo vendo y qué puedo vender?**
+## **¿Cómo vendo y qué puedo vender?**
 
 Para realizar ventas, al igual que un COMPRADOR, se debe contar con un usuario registrado.
 De esta manera solo se procede a dar click en el botón ¨PUBLICAR¨, donde se solicitan los datos del
@@ -84,7 +84,7 @@ producto, tales como descripción sucinta, imágenes, costo, país de ubicación
 Los productos (bienes y/o servicios) que se pueden comercializar dentro de la plataforma, son todos
 aquellos que no sean ilegales en alguno de los estados hispanos (ejemplo: drogas, armas, replicas, etc)
 
-**Vendí mi producto ¿cómo procedo?**
+## **Vendí mi producto ¿cómo procedo?**
 
 Una vez vendido su producto, recibirá en su email de registro, los datos del comprador con los que
 deberá ponerse en contacto para su entrega. Debe aguardar por la calificación por parte del
@@ -92,7 +92,7 @@ COMPRADOR para que el MEDIADOR (MERCOIN.org) libere su saldo a su wallet.
 
 ![E 0886 Db 4535 Edc 7 B 67 D 6 Fcf 5459 Dcf 5 Fo](/uploads/e-0886-db-4535-edc-7-b-67-d-6-fcf-5459-dcf-5-fo.png "E 0886 Db 4535 Edc 7 B 67 D 6 Fcf 5459 Dcf 5 Fo")
 
-**Han pasado varios días y mi pago no llega, ¿qué hago?**
+## **Han pasado varios días y mi pago no llega, ¿qué hago?**
 
 Como VENDEDOR corresponde aguardar por el pago al menos 20 (veinte) días para su pago, caso
 contrario lo liberaremos de manera automática asumiendo una venta exitosa
@@ -100,4 +100,4 @@ contrario lo liberaremos de manera automática asumiendo una venta exitosa
 Si el COMPRADOR lo califica antes de los 20 (veinte) días el proceso se llevara a cabo dentro de las 72
 hs luego de la calificación.
 
-**Reclamos y/sugerencias:** soporte@mercoinshop.com
+## **Reclamos y/sugerencias:** soporte@mercoinshop.com

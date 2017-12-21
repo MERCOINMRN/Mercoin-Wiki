@@ -12,8 +12,10 @@ https://Games.mercoin.org
 
 
 ## Ruleta / wheel
-Dentro de la comunidad de ocio tambien podras encontrar este otro desarrollo llamado RULETA MERCOIN
+Dentro de la comunidad de ocio tambien podras encontrar este otro desarrollo llamado RULETA MERCOIN. Consiste en hacer un deposito previo de MRN y luego con una apuesta en marcha, hacer girar la rueda de la fortuna. El resultado señalado por la flecha roja nos dirá cuan de nuestro lado ha estado la suerte
 
 ![4 Bc 83 Faa 85 A 72 B 567 E 139 Fc 1 F 9443939 O](/uploads/4-bc-83-faa-85-a-72-b-567-e-139-fc-1-f-9443939-o.png "4 Bc 83 Faa 85 A 72 B 567 E 139 Fc 1 F 9443939 O")
+
+https://Games.mercoin.org/Ruleta
 
 

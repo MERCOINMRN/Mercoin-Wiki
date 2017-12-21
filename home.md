@@ -68,11 +68,11 @@ Se la podrá encontrar en las principales plataformas de cambio (exchange) y sit
 
 
 
-MERCOIN ( MRN ) - Monetización
+**MERCOIN ( MRN ) - Monetización**
 
 Algoritmo PoW/PoS: Scrypt
 
-Datos Técnicos
+**Datos Técnicos**
 
 Nombre: MERCOIN
 Ticker / Abreviatura: MRN
@@ -96,14 +96,15 @@ Whitepaper:
 https://www.mercoin.org/index/whitepaper-espanol.pdf
 
 
-Versiones
+**Versiones**
 
 Mercoin 1.0 (Cryptonote)
 Mercoin 1.2 (Nist5)
 Mercoin 1.3 (Scrypt)
+Mercoin 1.4 (Scrypt) -el unico cambio fue en parametros de recompensa-
 
-DESCARGAS:
-
+**DESCARGAS:
+**
 NUEVAS ACTUALIZACIONES DISPONIBLES!
 
 por favor verifique la web del sitio
@@ -112,7 +113,7 @@ Formato Papel y 3D[2]
 El equipo de MERCOIN, consideró en responder a las personas que también gozan de tener el formato papel de una criptomoneda, no obstante, decidio incorporar el novedoso formato 3D. El mismo consiste en un software de MERCOIN.org (en desarrollo) cuya tarea es la de encriptar el nombre de usuario de wallet junto con el saldo a transferir en un código QR (en el caso de papel) y la dirección completa en la cara posterior (en el caso de la moneda 3D).
 Para evitar saldos duplicados y/o clones, el software genera una dirección wallet "física" (emite una dirección distinta para cada impresión) a la cual transfieres el saldo. De esta forma actúa como cualquier transacción de una criptomoneda, solo que queda impresa en tu dirección física.
 
-Proyecciones y objetivos:
+**Proyecciones y objetivos:**
 
 -El equipo de desarrollo de MERCOIN.org junto con aquellos que se vayan integrando, tendrán como objetivo:
 -Establecer a MERCOIN como moneda regional, encontrándose en las principales plataformas de turismo virtual, sitios de compra venta, comercios gastronómicos y otra índole
@@ -124,16 +125,16 @@ Proyecciones y objetivos:
 
 
 
-ACTUALIZACIONES al 30 de Noviembre de 2017 / UPDATES November 30 of 2017
+**ACTUALIZACIONES al 30 de Noviembre de 2017 / UPDATES November 30 of 2017**
 
 
-NUEVA WEB / NEW WEBSITE 
+**NUEVA WEB / NEW WEBSITE** 
 
 MERCOIN.org ahora posee un stio completamente minimalista y ordenado. En este nuevo formato se intento recopilar la información y categorizarla con accesos rapidos para mejor interaccion con los usuarios. Desde la portada podremos acceder tanto a nuestro monedero web como asi tambien a la seccion de compras oficial de MRN (requiere registro). Los enlaces rapidos están bien delimitados con sus respectivas categorias, como por ejemplo la seccion DESCARGAS, en la cual se encontrara toda la información necesaria para la mineria, uso de wallets locales, whitepaer y roadmap.
 
 
 
-MONEDERO ONLINE / WEB WALLET
+**MONEDERO ONLINE / WEB WALLET**
 
 
 
@@ -154,7 +155,7 @@ http://dashboard.mercoin.org
 
 
 
-FORO MERCOINTALK.com / FORUM MERCOINTALK.com
+**FORO MERCOINTALK.com / FORUM MERCOINTALK.com**
 
 El Foro oficial de MERCOIN (MRN) ha sido actualizado con algunas modificaciones como por ejemplo la nueva seccion "Noticias y Blockchain" donde se podran encontrar novedades referidas a la tematica publicadas por los propios usuarios de la comunidad
 
@@ -168,7 +169,7 @@ Demás esta decir que pueden recorrer las distintas secciones en busqueda de des
 No deje de visitar el foro oficial:
 https://www.MERCOINTALK.com
 
-RASPBERRY PI WALLET / DISTRO MERCOIN
+**RASPBERRY PI WALLET / DISTRO MERCOIN**
 
 Si eres amante de los dispositivos como arduino y raspberry, el equipo de MERCOIN no los ha dejado afuera. Es por ello que consideramos que son una buena forma y sobre todo segura de guardar en ellos tus MRN (ya sea localmente o via web), sin tener que utilizar tu laptop o pc de escritorio, que al ser utilizadas constantemente son propensas a sufrir da;os o robos de la misma.
 

@@ -4,9 +4,9 @@
 ## Versiones realizadas de MERCOIN (MRN)
 Desde el comienzo de MERCOIN han establecido tres prototipos distintos:
 
-1- Se ha desarrollado un fork de Bytecoin basado en **Cryptonight** de Cryptonote
-2- Se desarrollo también MERCOIN basado en **NIST5**
-3- El ultimo desarrollo fue basado con algoritmo **Scrypt**
+1- Se ha desarrollado un fork de Bytecoin basado en **Cryptonight** de Cryptonote (1.1)
+2- Se desarrollo también MERCOIN basado en **NIST5** (1.2)
+3- El ultimo desarrollo fue basado con algoritmo **Scrypt** (1.3)
 
 Se han dejado correr los tres prototipos y analizado las principales ventajas y desventajas de cada uno obteniendo como conclusión que:
 

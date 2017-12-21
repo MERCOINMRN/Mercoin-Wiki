@@ -6,6 +6,8 @@
 
 
 ## **¿qué es MERCOINSHOP?**
+VIDEO PROMO:
+[video](https://www.youtube.com/watch?v=2M_huCWkqiI&feature=youtu.be){.youtube}
 
 **MERCOINSHOP** es una plataforma de compra / venta de bienes y servicios que utiliza exclusivamente
 un único medio de pago, en este caso **MERCOIN (MRN)**

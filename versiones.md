@@ -6,7 +6,7 @@
 
 1- Se ha desarrollado un fork de Bytecoin basado en **Cryptonight** de Cryptonote
 2- Se desarrollo también MERCOIN basado en **NIST5**
-3- El ultimo desarrollo fue basado con algoritmo** Scrypt**
+3- El ultimo desarrollo fue basado con algoritmo ** Scrypt**
 
 Se han dejado correr los tres prototipos y analizado las principales ventajas y desventajas de cada uno obteniendo como conclusión que:
 
@@ -21,4 +21,5 @@ En la version 1.4 la recompensa por bloque se bajo de **50 MRN** a **5MRN**.
 En la Version 1.5 (proxima a ser lanzada) el reward sera de solo **2MRN** por bloque minado. En ambas versiones, se mantiene la mineria PoS hasta el ultimo bloque.
 Ademas de la modificacion de pàrametros, la version 1.5 trae consigo una mejora en el aspecto estetico muy notable, haciendo el monedero de MERCOIN, unico y dandole un salto de calidad visual esperado por el usuario.
 
+(Nos reservamos imagenes sobre la version 1.5 para luego de su lanzamiento)
 

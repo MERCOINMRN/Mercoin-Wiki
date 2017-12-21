@@ -51,7 +51,7 @@ Dado que en Latinoamérica suelen sucederse medidas económicas de restricción 
 
 
 
-# Las principales características técnicas del MERCOIN :
+# Las principales características técnicas del MERCOIN
 
 
 

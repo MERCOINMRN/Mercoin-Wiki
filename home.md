@@ -51,7 +51,7 @@ Dado que en Latinoamérica suelen sucederse medidas económicas de restricción 
 
 
 
-# Las principales características técnicas del MERCOIN
+# Principales características
 
 
 
@@ -190,28 +190,8 @@ https://github.com/MERCOINMRN/Mercoin
 
 
 
-# Mineria para Windows / Windows Miner
 
-32 bits>
-https://mega.nz/#!oLpVTD7J!wBh5mosmZ...tmxeZEdZ6kmenI
-
-64 bits>
-https://mega.nz/#!tPYGWJqD!hfXqMZQiI...A26LnG2fO_R3W0
-
-
-
-
-
-Pools
-
-Pool 1>
-http://178.238.235.246:8081/
-
-Pool extra>
-http://mrnpool.10mp.net:8081/
-
-
-Explorador de bloques / Block explorer
+# Explorador de bloques / Block explorer
 http://explorer.mercoin.org:3001/
 
 
@@ -220,27 +200,8 @@ http://explorer.mercoin.org:3001/
 
 
 
-MERCOIN ESTA EN SOUTHXCHANGE!! ----> TRADING AHORA !!!!!
 
-
-
-HTTPS://www.SOUTHXCHANGE.com
-
-
-
-Proximamente
-LATINBIT.org
-
-
-
-
-Preguntas Frecuentes
-consulte FAQ de la Comunidad 
-
-https://bitcointalk.org/index.php?to...75#msg20985775
-
-
-Roadmap:
+# Roadmap
 
 
 https://bitcointalk.org/index.php?topic=2128581.0

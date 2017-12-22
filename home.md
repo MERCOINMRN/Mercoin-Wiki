@@ -17,7 +17,8 @@ https://www.mercoin.org/
 
 Canal de Telegram: t.me/mercointalk
 
-#MERCOIN * #MRN * #$MRN * #MERCHANGE * #MRNSHOP
+#MERCOIN  #MRN  $MRN  #MercoinUne  #MERCOINSHOP
+
 Canales oficiales:
 
 https://www.facebook.com/Mercoin-MRN-125650824848037/
@@ -38,7 +39,7 @@ https://www.instagram.com/mercoinweb/
 **MERCOIN ( MRN )**,
 Denominada así en honor al **MERCOSUR**, es una nueva altcoin que a diferencia de las demás criptomonedas, que salen al mundo y ya, fue pensada para que su uso sea destinado pura y exclusivamente en la región latinoamericana. Esto no quiere decir que se impidan transacciones al resto del globo, sino más bien que la región sea la primera en adoptarla como criptomoneda oficial. De eso se trata, de que haya nacido para que los ciudadanos de la comunidad tengan sentido de pertenencia en ella.
 
-Dado que en Latinoamérica suelen sucederse medidas económicas de restricción y prohibición de divisas extranjeras, el equipo de **MERCOIN** consideró que una nueva criptodivisa, con una dificultad inferior a la del Bitcoin, podría imponerse de manera eficiente. Demás está decir, que los ciudadanos latinoamericanos, en su mayoría, no poseen recursos ni equipos de gran potencia como para minar BTC u otra moneda ya conocida de similares características, pero tampoco siente la razón de establecerse con una altcoin. Por este motivo y con esta nueva criptomoneda convocamos a la comunidad latinoamericana que quede atenta al lanzamiento del MRN porque si todos juntos creemos en esta altcoin, todos juntos le daremos el valor que le corresponde. Ni más ni menos. Depende de nosotros y por nosotros MERCOIN llegará a ser la moneda de gran valor en la región.
+Dado que en Latinoamérica suelen sucederse medidas económicas de restricción y prohibición de divisas extranjeras, el equipo de **MERCOIN** consideró que una nueva criptodivisa, con una dificultad inferior a la del **Bitcoin**, podría imponerse de manera eficiente. Demás está decir, que los ciudadanos latinoamericanos, en su mayoría, no poseen recursos ni equipos de gran potencia como para minar **BTC** u otra moneda ya conocida de similares características, pero tampoco siente la razón de establecerse con una altcoin. Por este motivo y con esta nueva criptomoneda convocamos a la comunidad latinoamericana que quede atenta al lanzamiento del **MRN** porque si todos juntos creemos en esta altcoin, todos juntos le daremos el valor que le corresponde. Ni más ni menos. Depende de nosotros y por nosotros **MERCOIN** llegará a ser la moneda de gran valor en la región.
 
 ## Proyecciones y objetivos
 

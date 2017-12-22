@@ -154,6 +154,8 @@ Puede acceder a una completa lista de guias de ayuda paso a paso, escritas y tam
 Lea más https://wiki.mercoin.org//guias-y-tutoriales
 
 ## Explorador de bloques / Block explorer
+El explorador de bloques de MERCOIN es una aplicacion web de alta tecnologia que nos permite ver el estado en riempo real de la red. Tanto transacciones, como nodos conectados, mineria con su emision diaria y dificultad para obtener recompesas
+
 http://explorer.mercoin.org:3001/
 
 
@@ -162,13 +164,12 @@ http://explorer.mercoin.org:3001/
 
 
 
+# DIFUSION Y PRENSA
 ## Roadmap
 En el roadmap de MERCOIN podrá encontrar lo planificado por el equipo oficial, en sus comienzos. Objetivos propuestos, cuales fueron alcanzados y cuales aun se encuentran en pleno desarrollo.
 
 Lea más https://wiki.mercoin.org//roadmap
 
-
-# DIFUSION Y PRENSA
 ## Bounties
 Campañas de recompensas
 https://bitcointalk.org/index.php?to...29#msg21173929

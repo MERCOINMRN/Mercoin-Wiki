@@ -32,7 +32,7 @@ Bien, el monedero web puede abrirse desde cualquier dispositivo, dado que es mul
 
 ![1](/uploads/1.png "1")
 
-Lo bueno de este monedero es que puede abrirse de cualquier parte del mundo a cualquier hora, pero **no genera mineria PoS o "Stake"**. Es decir no genera intereses de ningun tipo por la cantidad de MRN que se tenga en él como sí lo hace el monedero local. De esta manera satisfacemos a quienes quieren llevar parte de su saldo para interactuar como medio de pago y tambien a quienes les interesa generar intereses con MRN mediante la wallet local (hold).
-Tambien posee la función **COMPRAR**, que está ubicada en la parte superior donde se ubica el menú del monedero para realizar la adquisición inmediata de MRN.
+Lo bueno de este monedero es que puede abrirse de cualquier parte del mundo a cualquier hora, pero **no genera mineria PoS o "Stake"**. Es decir no genera intereses de ningun tipo por la cantidad de **MRN** que se tenga en él como sí lo hace el monedero local. De esta manera satisfacemos a quienes quieren llevar parte de su saldo para interactuar como medio de pago y tambien a quienes les interesa generar intereses con **MRN** mediante la wallet local (hold).
+Tambien posee la función **COMPRAR**, que está ubicada en la parte superior donde se ubica el menú del monedero para realizar la adquisición inmediata de **MRN**.
 
 ![2](/uploads/2.png "2")

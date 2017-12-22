@@ -2,7 +2,7 @@
 <!-- SUBTITLE:  Wallets Y Monederos disponibles -->
 
 **Monederos / Wallets instalables**
-A continuacion se detallan las distintas disponilidades de monederos instalables (en modo local) de MERCOIN
+A continuacion se detallan las distintas disponilidades de monederos instalables (en modo local) de **MERCOIN**
 
 # Wallet Windows
 **instalador / installer**
@@ -11,7 +11,7 @@ https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-windows/Mercoin_
 **Wallet / Monedero**
 https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-windows/mercoin-qt-win.zip
 
-
+Para visualizar las guias o videotutoriales paso a paso, por favor lea el siguiente articulo: https://wiki.mercoin.org//guias-y-tutoriales
 # Wallet Ubuntu
 **LINUX (Ubuntu 16)
 Dependencias**
@@ -20,6 +20,7 @@ https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-Linux/install_de
 **Wallet / Monedero**
 https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-Linux/mercoin-qt
 
+Para visualizar las guias o videotutoriales paso a paso, por favor lea el siguiente articulo: https://wiki.mercoin.org//guias-y-tutoriales
 # Wallet Raspberry
 **MERCOIN.org** ha desarrollado un monedero / wallet para distribuciones de **linux** aplicadas a **Raspberry**. Posee todas las mismas funcionalidades que un monedero local instalable, por lo tanto genera mineria PoS stake y debe ser tanto sincronizada como actualizada según sea necesario.
 

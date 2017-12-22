@@ -11,6 +11,7 @@ Mercoin (MRN) $MRN altcoin Mercosur
 Proyecto MERCOIN (2018)
 
 
+
 # WEBSITE Y CANALES
 
 https://www.mercoin.org/
@@ -169,6 +170,12 @@ http://explorer.mercoin.org:3001/
 En el roadmap de MERCOIN podrá encontrar lo planificado por el equipo oficial, en sus comienzos. Objetivos propuestos, cuales fueron alcanzados y cuales aun se encuentran en pleno desarrollo.
 
 Lea más https://wiki.mercoin.org//roadmap
+
+## FAQ (PREGUNTAS FRECUENTES)
+
+Si uste es un nuevo usuario de la comunidad MERCOIN le recomendamos leer el siguiente articulo publicado con las preguntas frecuentes
+
+Lea más https://wiki.mercoin.org//faq
 
 ## Bounties
 Campañas de recompensas

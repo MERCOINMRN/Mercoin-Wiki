@@ -1,5 +1,5 @@
 <!-- TITLE: Guias Y Tutoriales -->
-<!-- SUBTITLE: A quick summary of Guias Y Tutoriales -->
+<!-- SUBTITLE: Guias en formato PDF y videotutoriales disponibles -->
 
 # Guias y tutoriales
 A continuacion se detallan las guias y videotutoriales para el usuario, disponibles para toda la comunidad MERCOIN

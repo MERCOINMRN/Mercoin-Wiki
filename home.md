@@ -11,7 +11,7 @@ Mercoin (MRN) $MRN altcoin Mercosur
 Proyecto MERCOIN (2018)
 
 
-# WEBSITE y CANALES
+# WEBSITE Y CANALES
 
 https://www.mercoin.org/
 

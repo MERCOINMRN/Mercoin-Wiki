@@ -28,24 +28,24 @@ https://ar.pinterest.com/mercoin/
 https://www.instagram.com/mercoinweb/
 
 
-MERCOIN es un proyecto lanzado en finales de Junio de 2017. 
+**MERCOIN** es un proyecto lanzado en finales de Junio de 2017. 
 
 *Basado en la tecnologia del algoritmo Scrypt*
 
 
 # Filosofia
 
-MERCOIN ( MRN ),
-Denominada así en honor al MERCOSUR, es una nueva altcoin que a diferencia de las demás criptomonedas, que salen al mundo y ya, fue pensada para que su uso sea destinado pura y exclusivamente en la región latinoamericana. Esto no quiere decir que se impidan transacciones al resto del globo, sino más bien que la región sea la primera en adoptarla como criptomoneda oficial. De eso se trata, de que haya nacido para que los ciudadanos de la comunidad tengan sentido de pertenencia en ella.
+**MERCOIN ( MRN )**,
+Denominada así en honor al **MERCOSUR**, es una nueva altcoin que a diferencia de las demás criptomonedas, que salen al mundo y ya, fue pensada para que su uso sea destinado pura y exclusivamente en la región latinoamericana. Esto no quiere decir que se impidan transacciones al resto del globo, sino más bien que la región sea la primera en adoptarla como criptomoneda oficial. De eso se trata, de que haya nacido para que los ciudadanos de la comunidad tengan sentido de pertenencia en ella.
 
-Dado que en Latinoamérica suelen sucederse medidas económicas de restricción y prohibición de divisas extranjeras, el equipo de MERCOIN consideró que una nueva criptodivisa, con una dificultad inferior a la del Bitcoin, podría imponerse de manera eficiente. Demás está decir, que los ciudadanos latinoamericanos, en su mayoría, no poseen recursos ni equipos de gran potencia como para minar BTC u otra moneda ya conocida de similares características, pero tampoco siente la razón de establecerse con una altcoin. Por este motivo y con esta nueva criptomoneda convocamos a la comunidad latinoamericana que quede atenta al lanzamiento del MRN porque si todos juntos creemos en esta altcoin, todos juntos le daremos el valor que le corresponde. Ni más ni menos. Depende de nosotros y por nosotros MERCOIN llegará a ser la moneda de gran valor en la región.
+Dado que en Latinoamérica suelen sucederse medidas económicas de restricción y prohibición de divisas extranjeras, el equipo de **MERCOIN** consideró que una nueva criptodivisa, con una dificultad inferior a la del Bitcoin, podría imponerse de manera eficiente. Demás está decir, que los ciudadanos latinoamericanos, en su mayoría, no poseen recursos ni equipos de gran potencia como para minar BTC u otra moneda ya conocida de similares características, pero tampoco siente la razón de establecerse con una altcoin. Por este motivo y con esta nueva criptomoneda convocamos a la comunidad latinoamericana que quede atenta al lanzamiento del MRN porque si todos juntos creemos en esta altcoin, todos juntos le daremos el valor que le corresponde. Ni más ni menos. Depende de nosotros y por nosotros MERCOIN llegará a ser la moneda de gran valor en la región.
 
 ## Proyecciones y objetivos
 
--El equipo de desarrollo de MERCOIN.org junto con aquellos que se vayan integrando, tendrán como objetivo:
--Establecer a MERCOIN como moneda regional, encontrándose en las principales plataformas de turismo virtual, sitios de compra venta, comercios gastronómicos y otra índole
--Finalizar con el desarrollo del MERCOIN físico (MRN-F) el cual trabaja a través de un software permitiendo imprimir tanto en papel como en formato 3D (Moneda), el saldo que el usuario desee, contemplando la seguridad y desarrollando una encriptación que impida clones y/o duplicados.
--Desarrollar plataformas de pago innovadoras y prácticas auto gestionadas, entre ellas la MRN card y anillo MRN. Ambos trabajarán con tecnología NFC (por cercanía) y será autogestionada por el usuario. Es decir, cada individuo podrá realizar la carga del saldo que desee en su tarjeta sin intermediarios.
+-El equipo de desarrollo de **MERCOIN.org** junto con aquellos que se vayan integrando, tendrán como objetivo:
+-Establecer a **MERCOIN** como moneda regional, encontrándose en las principales plataformas de turismo virtual, sitios de compra venta, comercios gastronómicos y otra índole
+-Finalizar con el desarrollo del **MERCOIN físico (MRN-F)** el cual trabaja a través de un software permitiendo imprimir tanto en papel como en formato 3D (Moneda), el saldo que el usuario desee, contemplando la seguridad y desarrollando una encriptación que impida clones y/o duplicados.
+-Desarrollar plataformas de pago innovadoras y prácticas auto gestionadas, entre ellas la **MRN** card y anillo **MRN**. Ambos trabajarán con tecnología **NFC** (por cercanía) y será autogestionada por el usuario. Es decir, cada individuo podrá realizar la carga del saldo que desee en su tarjeta sin intermediarios.
 -Desarrollar equipos de minería con hardware de bajo costo y de bajo consumo con gran eficiencia y rendimiento, basados en las tarjetas Udoo x86 starter y Ultra.
 -Financiar desarrollos tecnológicos que contribuyan al bien de la comunidad y el medio ambiente.
 
@@ -114,7 +114,7 @@ Lea más https://wiki.mercoin.org//versiones
 # DESARROLLOS
 
 ## MERCOINSHOP
-Plataforma web integramente creada para el intercambio de bienes y servicios con MERCOIN
+Plataforma web integramente creada para el intercambio de bienes y servicios con **MERCOIN**
 
 Lea más https://wiki.mercoin.org//mercoin-shop
 
@@ -143,7 +143,9 @@ https://github.com/MERCOINMRN/Mercoin
 
 
 ## Monederos / Wallets
+Por favor para informacion detallada sobre los monederos/wallets disponibles oficiales de **MERCOIN.org** por favor le el articulo del siguiente enlace:
 
+Lea más https://wiki.mercoin.org//wallets-y-monederos
 
 ## Explorador de bloques / Block explorer
 http://explorer.mercoin.org:3001/

@@ -98,7 +98,7 @@ Tiempo minimo para stake: 8 hs
 https://www.mercoin.org/index/whitepaper-espanol.pdf
 
 
-# Versiones
+# VERSIONES
 
 Mercoin 1.0 (Cryptonote)
 Mercoin 1.2 (Nist5)
@@ -168,15 +168,15 @@ http://explorer.mercoin.org:3001/
 https://bitcointalk.org/index.php?topic=2128581.0
 
 
-# Difusion y prensa
+# DIFUSION Y PRENSA
 ## Bounties
 Campañas de recompensas
 https://bitcointalk.org/index.php?to...29#msg21173929
 
 
-# English
+# ENGLISH
 https://bitcointalk.org/index.php?to...05#msg21010205
 
-# Portugués
+# PORTUGUÉS
 https://bitcointalk.org/index.php?topic=2108990.0
 

@@ -163,9 +163,9 @@ http://explorer.mercoin.org:3001/
 
 
 ## Roadmap
+En el roadmap de MERCOIN podrá encontrar lo planificado por el equipo oficial, en sus comienzos. Objetivos propuestos, cuales fueron alcanzados y cuales aun se encuentran en pleno desarrollo.
 
-
-https://bitcointalk.org/index.php?topic=2128581.0
+Lea más https://wiki.mercoin.org//roadmap
 
 
 # DIFUSION Y PRENSA

@@ -1,7 +1,7 @@
 <!-- TITLE: Mercoin -->
 <!-- SUBTITLE: LA CRIPTOMONEDA MÁS IMPORTANTE DE LA REGIÓN LATINOAMERICANA. -->
 
-# Mercoin
+# MERCOIN
 Mercoin (MRN) $MRN altcoin Mercosur
 
 
@@ -11,7 +11,7 @@ Mercoin (MRN) $MRN altcoin Mercosur
 Proyecto MERCOIN (2018)
 
 
-# Website y Canales sociales
+# WEBSITE y CANALES
 
 https://www.mercoin.org/
 
@@ -34,7 +34,7 @@ https://www.instagram.com/mercoinweb/
 *Basado en la tecnologia del algoritmo Scrypt*
 
 
-# Filosofia
+# FILOSOFIA
 
 **MERCOIN ( MRN )**,
 Denominada así en honor al **MERCOSUR**, es una nueva altcoin que a diferencia de las demás criptomonedas, que salen al mundo y ya, fue pensada para que su uso sea destinado pura y exclusivamente en la región latinoamericana. Esto no quiere decir que se impidan transacciones al resto del globo, sino más bien que la región sea la primera en adoptarla como criptomoneda oficial. De eso se trata, de que haya nacido para que los ciudadanos de la comunidad tengan sentido de pertenencia en ella.
@@ -74,7 +74,7 @@ Se la podrá encontrar en las principales plataformas de cambio (exchange) y sit
 
 
 
-# Datos Técnicos
+# DATOS TECNICOS
 
 Nombre: MERCOIN
 Ticker / Abreviatura: MRN
@@ -93,7 +93,7 @@ Tiempo minimo para stake: 8 hs
 
 (a) - Consulte políticas de emisión en el whitepaper
 
-# Whitepaper
+# WHITEPAPER
 
 https://www.mercoin.org/index/whitepaper-espanol.pdf
 
@@ -114,7 +114,7 @@ Lea más https://wiki.mercoin.org//versiones
 
 # DESARROLLOS
 
-## MERCOINSHOP
+## Mercoinshop
 Plataforma web integramente creada para el intercambio de bienes y servicios con **MERCOIN**
 
 Lea más https://wiki.mercoin.org//mercoin-shop
@@ -136,7 +136,7 @@ Lea más https://wiki.mercoin.org//mercoin-os
 
 
 
-# Recursos
+# RECURSOS
 
 ## Codigo fuente / Source
 
@@ -147,6 +147,11 @@ https://github.com/MERCOINMRN/Mercoin
 Por favor para informacion detallada sobre los monederos/wallets disponibles oficiales de **MERCOIN.org** por favor le el articulo del siguiente enlace:
 
 Lea más https://wiki.mercoin.org//wallets-y-monederos
+
+## Guias de uso y videotutoriales
+Puede acceder a una completa lista de guias de ayuda paso a paso, escritas y tambien realizadas en video por el equipo oficial de **MERCOIN.org**
+
+Lea más https://wiki.mercoin.org//guias-y-tutoriales
 
 ## Explorador de bloques / Block explorer
 http://explorer.mercoin.org:3001/

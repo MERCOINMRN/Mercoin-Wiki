@@ -103,7 +103,7 @@ Tiempo minimo para stake: 8 hs
 
 # WHITEPAPER
 
-https://www.mercoin.org/index/whitepaper-espanol.pdf
+https://drive.google.com/file/d/1aHErn3PtSLEzsScAv2nOcXUdEwJcVRpm/view
 
 
 # VERSIONES

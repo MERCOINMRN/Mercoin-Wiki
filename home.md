@@ -19,11 +19,12 @@ Proyecto MERCOIN (2018)
 Canal de Telegram: t.me/mercointalk
 
 #MERCOIN  #MRN  $MRN  #MercoinUne  #MERCOINSHOP
+> https://www.mercoin.org/ -- Pagina Web Oficial de Mercoin
+{.is-info}
+
 > https://mercointalk.org/  -- Foro Oficial de Mercoin
 {.is-info}
 
-> https://www.mercoin.org/
-{.is-info}
 
 
 Canales oficiales:

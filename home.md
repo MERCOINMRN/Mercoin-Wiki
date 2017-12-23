@@ -19,8 +19,8 @@ https://www.mercoin.org/
 Canal de Telegram: t.me/mercointalk
 
 #MERCOIN  #MRN  $MRN  #MercoinUne  #MERCOINSHOP
-> .https://mercointalk.org/  -- Foro Oficial de Mercoin
-{}
+> https://mercointalk.org/  -- Foro Oficial de Mercoin
+
 
 Canales oficiales:
 

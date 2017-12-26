@@ -19,7 +19,7 @@ Proyecto MERCOIN (2018) :date:
 Canal de Telegram: t.me/mercointalk
 
 #MERCOIN  #MRN  $MRN  #MercoinUne  #MERCOINSHOP
-> https://www.mercoin.org/ -- Pagina Web Oficial de Mercoin
+:globe_with_meridians: > https://www.mercoin.org/ -- Pagina Web Oficial de Mercoin
 {.is-info}
 
 > https://mercointalk.org/  -- Foro Oficial de Mercoin
@@ -106,13 +106,13 @@ Tiempo minimo para stake: 8 hs
 https://drive.google.com/file/d/1aHErn3PtSLEzsScAv2nOcXUdEwJcVRpm/view
 
 
-# VERSIONES
+# VERSIONES :bookmark_tabs:
 :computer:
 Mercoin 1.0 (Cryptonote)
 Mercoin 1.2 (Nist5)
 Mercoin 1.3 (Scrypt)
 Mercoin 1.4 (Scrypt) -el unico cambio fue en parametros de recompensa-
-Mercoin 1.5 (Scrypt) -cambios en parametros y entorno grafico-
+Mercoin 1.5 (Scrypt) -cambios en parametros y entorno grafico- :white_check_mark:
 
 Lea más https://wiki.mercoin.org//versiones
 
@@ -120,9 +120,9 @@ Lea más https://wiki.mercoin.org//versiones
 
 
 
-# DESARROLLOS
+# DESARROLLOS :bulb:
 
-## Mercoinshop 
+## Mercoinshop :credit_card:
 Plataforma web integramente creada para el intercambio de bienes y servicios con **MERCOIN**
 
 Lea más https://wiki.mercoin.org//mercoin-shop
@@ -131,12 +131,12 @@ Lea más https://wiki.mercoin.org//mercoin-shop
 
 
 
-## Juegos / Games
+## Juegos / Games :game_die:
 La comunidad **MERCOIN (MRN)** tambien cuenta con juegos para ocio y adquirir algunos **MRN** si es que la suerte está de tu lado. 
 
 Lea más https://wiki.mercoin.org//juegos
 
-## MercoinOS
+## MercoinOS :computer:
 Sistema operativo propio de **MERCOIN.org** basado en una distro de linux para **Raspberry** (Pixel)
 
 Lea más https://wiki.mercoin.org//mercoin-os
@@ -144,14 +144,14 @@ Lea más https://wiki.mercoin.org//mercoin-os
 
 
 
-# RECURSOS
+# RECURSOS :floppy_disk:
 
-## Codigo fuente / Source
+## Codigo fuente / Source 
 
 https://github.com/MERCOINMRN/Mercoin
 
 
-## Monederos / Wallets
+## Monederos / Wallets :euro:
 Por favor para informacion detallada sobre los monederos/wallets disponibles oficiales de **MERCOIN.org** por favor le el articulo del siguiente enlace:
 
 Lea más https://wiki.mercoin.org//wallets-y-monederos
@@ -190,7 +190,7 @@ https://bitcointalk.org/index.php?to...29#msg21173929
 
 
 # ENGLISH
-https://bitcointalk.org/index.php?topic=2102168.0
+:uk: https://bitcointalk.org/index.php?topic=2102168.0
 
 # PORTUGUÉS
 https://bitcointalk.org/index.php?topic=2108990.0

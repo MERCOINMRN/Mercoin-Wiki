@@ -190,7 +190,7 @@ https://bitcointalk.org/index.php?to...29#msg21173929
 
 
 # ENGLISH
-https://bitcointalk.org/index.php?to...05#msg21010205
+https://bitcointalk.org/index.php?topic=2102168.0
 
 # PORTUGUÉS
 https://bitcointalk.org/index.php?topic=2108990.0

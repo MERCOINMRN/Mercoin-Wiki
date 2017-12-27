@@ -91,7 +91,7 @@ Tipo: Pow / PoS
 Letra: M
 Máximo suministro: 100.000.000 (Max. Supply)
 Preminado: 20% (10% stake 10% ICO)
-Recompensa del bloque POW: 5
+Recompensa del bloque POW: 2
 Puerto RCP: 23880
 Puerto P2P: 23879
 Ultimo bloque POW: 100000

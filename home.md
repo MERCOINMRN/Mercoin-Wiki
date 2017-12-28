@@ -101,7 +101,7 @@ Tiempo minimo para stake: 8 hs
 
 (a) - Consulte políticas de emisión en el whitepaper
 
-# WHITEPAPER :book:
+# WHITEPAPER
 
 https://drive.google.com/file/d/1aHErn3PtSLEzsScAv2nOcXUdEwJcVRpm/view
 
@@ -118,7 +118,11 @@ Lea más https://wiki.mercoin.org//versiones
 
 
 
+# MINERIA
 
+La mineria de MERCOIN es un recurso fundamental para sostener el funcionamiento de nuestra red, entérate como leyendo el articulo
+
+Leer más https://wiki.mercoin.org//mineria
 
 # DESARROLLOS 
 

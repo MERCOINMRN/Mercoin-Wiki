@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Recursos para mineria de MRN -->
 
 # MINERIA
-
+Nota: antes de comenzar recuerda tener la ultima version de WALLET LOCAL descargada y SINCRONIZADA
 
 **Mineria para Windows / Windows Miner**
 

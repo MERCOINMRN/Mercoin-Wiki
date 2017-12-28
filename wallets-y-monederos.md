@@ -9,7 +9,7 @@ A continuacion se detallan las distintas disponilidades de monederos instalables
 https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-windows/Mercoin_Installer.msi
 
 **Wallet / Monedero**
-https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-windows/mercoin-qt-win.zip
+https://github.com/MERCOINMRN/Wallets/blob/master/windows/mercoin-qt.exe
 
 Para visualizar las guias o videotutoriales paso a paso, por favor lea el siguiente articulo: https://wiki.mercoin.org//guias-y-tutoriales
 # Wallet Ubuntu

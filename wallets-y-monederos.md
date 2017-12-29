@@ -21,6 +21,10 @@ https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-Linux/install_de
 https://github.com/MERCOINMRN/Wallets/releases/download/Mercoin-Linux/mercoin-qt
 
 Para visualizar las guias o videotutoriales paso a paso, por favor lea el siguiente articulo: https://wiki.mercoin.org//guias-y-tutoriales
+
+# Wallet MAC
+**Wallet / Monedero**
+https://github.com/MERCOINMRN/Wallets/tree/master/Mac
 # Wallet Raspberry
 **MERCOIN.org** ha desarrollado un monedero / wallet para distribuciones de **linux** aplicadas a **Raspberry**. Posee todas las mismas funcionalidades que un monedero local instalable, por lo tanto genera mineria PoS stake y debe ser tanto sincronizada como actualizada según sea necesario.
 

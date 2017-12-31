@@ -35,10 +35,10 @@ https://www.youtube.com/watch?v=h3_9D5F4TmY
 **Pools**
 
 Pool  1>
-http://178.238.235.246:8081/
+http://178.238.235.246:8080/
 
 Pool extra>
-http://mrnpool.10mp.net:8081/
+http://pool.0x3ff.space:8080
 
 
 Explorador de bloques / Block explorer

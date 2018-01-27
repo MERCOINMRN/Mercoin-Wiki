@@ -116,7 +116,10 @@ Mercoin 1.5 (Scrypt) -cambios en parametros y entorno grafico- :white_check_mark
 
 Lea más https://wiki.mercoin.org//versiones
 
+# MERCADO
+¿Dónde y cómo comprar o vender tus MRN?: Aquí encontrarás la información necesaria para adquirir o bien cambiar tus MERCOINs
 
+Leer más https://wiki.mercoin.org//mercado
 
 # MINERIA
 

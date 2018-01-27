@@ -17,3 +17,7 @@ Es una plataforma de intercambio de monedas, la primera en incorporar a MERCOIN 
 
 Es otra plataforma de cambio de criptoactivos, con un listado acotado de las mismas, lo que permite hacer mayor énfasis en MRN. Muy rapida, dinamica e intuitiva a la hora de utilizarla. Permite cambio solo por otras criptodivisas.
 
+4- LATINEX.la
+
+Es la plataforma desarrollada por el equipo oficial de MERCOIN.org La misma esta basada en un motor de trading, seguro eficiente y muy intuitivo. Latinex tendrá en su list principal las monedas ya reconocidas pero a su véz hará hincapié en los proyectos latinos. Su lanzamiento está estipulado para el dia 1 de Febrero de 2018.
+A continuación dejamos el enlace oficial: https://bitcointalk.org/index.php?topic=2788388.0
